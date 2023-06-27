@@ -1,6 +1,6 @@
 # Frontend-Mentor-Challenges
 
-The site has been deployed [visit here]([https://pages.github.com/](https://suraj-kumar-git-first-frontend-mentor.netlify.app/)).
+The site has been deployed [visit here]([url](https://suraj-kumar-git-first-frontend-mentor.netlify.app/)).
 
 
 Frontend Mentor is an online platform that provides real-world coding challenges and projects for front-end web developers. It offers a collection of design-driven projects with varying levels of difficulty to help developers practice and enhance their front-end development skills.
